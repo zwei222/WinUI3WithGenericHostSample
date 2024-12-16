@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3WithGenericHostSample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3WithGenericHostSample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
